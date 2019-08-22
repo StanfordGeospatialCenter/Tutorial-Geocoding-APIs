@@ -1,9 +1,9 @@
 Tutorial-Geocoding-APIs
 =======================
 
-###How to use various Web APIs and OpenRefine for geocoding and augmenting data with geographic attributes. 
+### How to use various Web APIs and OpenRefine for geocoding and augmenting data with geographic attributes. 
 
-###Getting Ready for the Tutorial 
+### Getting Ready for the Tutorial 
 This tutorial will demonstrate how to use OpenRefine to submit URLs to web-based Geocoding APIs in order to augment an existing dataset with things like latitude & longitude coordinates, elevation values, drive times, etc...
 
 OpenRefine is a piece of open-source software that allows you to manipulate data in many different ways. It's not just great for geocoding and augmenting datasets, but is really great for cleaning up 'dirty' data, too. 
